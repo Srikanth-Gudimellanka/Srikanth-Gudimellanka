@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate 3rd-year B.Tech student at SRM AP University.<br>Pursuing Computer Science and Engineering.<br>A passionate frontend developer.<br>🌱 I’m currently learning Mernstack & Devops.<br>📫 How to reach me srikanthumayknow@gmail.com<br>📄 Know about my experiences https://amaranth-beret-43.tiiny.site
+I'm a passionate Final year B.Tech student at SRM AP University.<br>Pursuing Computer Science and Engineering.<br>A passionate frontend developer.<br>🌱 I’m currently learning Mernstack & Devops.<br>📫 How to reach me srikanthumayknow@gmail.com<br>📄 Know about my experiences https://amaranth-beret-43.tiiny.site
 
 
 ## 🌐 Socials:
